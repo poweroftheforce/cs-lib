@@ -10,7 +10,7 @@ CS Lib makes delivering creatives a easier by implementing the `Write less, do m
 
 Methods:
 
-	adManager( prop, [ (optional) val ] )
+	adManager( prop, [ (optional) val ] )<span style="color:red">hi</span>
 	escape( wrap, html, [ (optional) complete ] )
 	explode( html, [ (optional) complete ] )
 	frame()
